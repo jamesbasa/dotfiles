@@ -40,3 +40,6 @@ plugins=(
   git
 )
 source $ZSH/oh-my-zsh.sh
+
+# rbenv
+eval "$(rbenv init - zsh)"
