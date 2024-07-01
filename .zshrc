@@ -1,7 +1,7 @@
 alias la="ls -a"
 alias vz="vim ~/.zshrc"
 alias cz="code ~/.zshrc"
-alias tz="touch ~/.zshrc"
+alias sz="source ~/.zshrc"
 alias gmm="git merge master"
 alias gm="git merge"
 alias lsf="ls -tGFlash"
