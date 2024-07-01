@@ -23,6 +23,7 @@ alias racp="rake assets:clobber; rake assets:precompile; rails s"
 alias racpbd="rake assets:clobber; rake assets:precompile; bin/dev"
 alias doc="bin/doctor"
 alias cop="bin/bundle exec rubocop"
+alias bi="bundle install"
 
 # patient-ui
 alias br="bin/run"
