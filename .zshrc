@@ -33,6 +33,9 @@ alias nrs="npm run start"
 alias nrl="npm run lint"
 alias nrt="npm run test"
 
+# angular
+alias ngs="ng serve --open"
+
 # oh-my-zsh
 export ZSH=$HOME/.oh-my-zsh
 ZSH_THEME="devcontainers"
