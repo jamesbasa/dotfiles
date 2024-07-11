@@ -27,6 +27,7 @@ alias bi="bundle install"
 
 # patient-ui
 alias br="bin/run"
+alias jest="npm run jest"
 
 # onelife-ui
 alias nrs="npm run start"
