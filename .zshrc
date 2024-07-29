@@ -9,6 +9,10 @@ alias lsf="ls -tGFlash"
 # aws
 alias sso="aws sso login"
 
+# docker
+alias dcu="docker compose up"
+alias dcd="docker compose down"
+
 # rails
 alias rs="bin/rails s"
 alias bs="bin/start"
