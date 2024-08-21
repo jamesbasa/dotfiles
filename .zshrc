@@ -7,6 +7,7 @@ alias lsf="ls -tGFlash"
 # git
 alias gmm="git merge master"
 alias gm="git merge"
+alias gp="git pull"
 alias gcp="git cherry-pick"
 
 # aws
