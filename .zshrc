@@ -2,9 +2,12 @@ alias la="ls -a"
 alias vz="vim ~/.zshrc"
 alias cz="code ~/.zshrc"
 alias sz="source ~/.zshrc"
+alias lsf="ls -tGFlash"
+
+# git
 alias gmm="git merge master"
 alias gm="git merge"
-alias lsf="ls -tGFlash"
+alias gcp="git cherry-pick"
 
 # aws
 alias sso="aws sso login"
