@@ -9,6 +9,8 @@ alias gmm="git merge master"
 alias gm="git merge"
 alias gp="git pull"
 alias gcp="git cherry-pick"
+alias grh="git reset --hard"
+alias gpf="git push -f"
 
 # aws
 alias sso="aws sso login"
