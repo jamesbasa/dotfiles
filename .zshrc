@@ -26,6 +26,8 @@ alias bs="bin/start"
 alias rc="rails c"
 alias rc2="irb -r './config/environment'"
 alias rdbm="rake db:migrate"
+alias rdbms="rake db:migrate:status"
+alias rdbr="rake db:rollback"
 alias rspec="bin/rspec"
 
 alias rap="rake assets:precompile; rails s"
