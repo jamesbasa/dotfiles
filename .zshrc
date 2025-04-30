@@ -12,6 +12,7 @@ alias gf="git fetch"
 alias gcp="git cherry-pick"
 alias grh="git reset --hard"
 alias gpf="git push -f"
+alias gbcopy="git branch --show-current | pbcopy"
 
 # aws
 alias sso="aws sso login"
